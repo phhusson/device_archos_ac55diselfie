@@ -1,0 +1,3 @@
+# These settings are specific to running under the Android emulator
+/dev/ion           0666   system     system
+/dev/qseecom            0666   system     system
